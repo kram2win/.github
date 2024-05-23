@@ -1,3 +1,3 @@
-# kram2win
+# kram2win 🤝🏽
 
-## Just 2 fellas trying to survive
+### Just 2 fellas trying to survive
